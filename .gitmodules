@@ -1,0 +1,3 @@
+[submodule "alfred_utils"]
+	path = alfred_utils
+	url = https://github.com/mat813/alfred_utils.git
